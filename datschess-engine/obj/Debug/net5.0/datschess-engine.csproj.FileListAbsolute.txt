@@ -1,0 +1,16 @@
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\bin\Debug\net5.0\datschess-engine.exe
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\bin\Debug\net5.0\datschess-engine.deps.json
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\bin\Debug\net5.0\datschess-engine.runtimeconfig.json
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\bin\Debug\net5.0\datschess-engine.runtimeconfig.dev.json
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\bin\Debug\net5.0\datschess-engine.dll
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\bin\Debug\net5.0\ref\datschess-engine.dll
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\bin\Debug\net5.0\datschess-engine.pdb
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\obj\Debug\net5.0\datschess-engine.csproj.AssemblyReference.cache
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\obj\Debug\net5.0\datschess-engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\obj\Debug\net5.0\datschess-engine.AssemblyInfoInputs.cache
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\obj\Debug\net5.0\datschess-engine.AssemblyInfo.cs
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\obj\Debug\net5.0\datschess-engine.csproj.CoreCompileInputs.cache
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\obj\Debug\net5.0\datschess-engine.dll
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\obj\Debug\net5.0\ref\datschess-engine.dll
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\obj\Debug\net5.0\datschess-engine.pdb
+C:\Users\ajdelco\Dev\SeniorDesign\datschess-engine\datschess-engine\obj\Debug\net5.0\datschess-engine.genruntimeconfig.cache

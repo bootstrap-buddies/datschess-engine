@@ -5,7 +5,9 @@ namespace DATSChess.Engines
 {
     public class Randy
     {
-        public static void Move(Board board) {
+        public delegate void MoveMadeCallback(string move);
+        public static void Move(Board board, MoveMadeCallback MoveMade)
+        {
             Random rand = new Random();
             int index;
             Move randomMove;
@@ -20,6 +22,7 @@ namespace DATSChess.Engines
             System.Threading.Thread.Sleep(250);
 
             UCI.BestMove(randomMove);
+            MoveMade(randomMove.ToString());
             //board.Play(randomMove);
         }
     }

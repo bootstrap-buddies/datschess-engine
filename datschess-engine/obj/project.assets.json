@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ajdelco\\.nuget\\packages\\": {}
+    "C:\\Users\\ajdel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajdelco\\Dev\\SeniorDesign\\datschess-engine\\datschess-engine\\datschess-engine.csproj",
+      "projectUniqueName": "C:\\Users\\ajdel\\Dev\\SeniorDesign\\ACTUALDATSCHESSENGINE\\datschess-engine\\datschess-engine\\datschess-engine.csproj",
       "projectName": "datschess-engine",
-      "projectPath": "C:\\Users\\ajdelco\\Dev\\SeniorDesign\\datschess-engine\\datschess-engine\\datschess-engine.csproj",
-      "packagesPath": "C:\\Users\\ajdelco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajdelco\\Dev\\SeniorDesign\\datschess-engine\\datschess-engine\\obj\\",
+      "projectPath": "C:\\Users\\ajdel\\Dev\\SeniorDesign\\ACTUALDATSCHESSENGINE\\datschess-engine\\datschess-engine\\datschess-engine.csproj",
+      "packagesPath": "C:\\Users\\ajdel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ajdel\\Dev\\SeniorDesign\\ACTUALDATSCHESSENGINE\\datschess-engine\\datschess-engine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ajdelco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ajdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
